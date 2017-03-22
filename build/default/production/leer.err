@@ -1,0 +1,16 @@
+Message[305] C:\USERS\X456UA I5 7GN\DESKTOP\D\OSCAR\D\MPLABXPROJECTS\LAB_1\LAB_1\YESICA1\LEER.ASM 91 : Using default destination of 1 (file).
+Message[305] C:\USERS\X456UA I5 7GN\DESKTOP\D\OSCAR\D\MPLABXPROJECTS\LAB_1\LAB_1\YESICA1\CONVERSION.INC 13 : Using default destination of 1 (file).
+Message[305] C:\USERS\X456UA I5 7GN\DESKTOP\D\OSCAR\D\MPLABXPROJECTS\LAB_1\LAB_1\YESICA1\CONVERSION.INC 22 : Using default destination of 1 (file).
+Message[302] C:\USERS\X456UA I5 7GN\DESKTOP\D\OSCAR\D\MPLABXPROJECTS\LAB_1\LAB_1\YESICA1\CONFIGURACION.INC 4 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\X456UA I5 7GN\DESKTOP\D\OSCAR\D\MPLABXPROJECTS\LAB_1\LAB_1\YESICA1\CONFIGURACION.INC 5 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\X456UA I5 7GN\DESKTOP\D\OSCAR\D\MPLABXPROJECTS\LAB_1\LAB_1\YESICA1\CONFIGURACION.INC 6 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\X456UA I5 7GN\DESKTOP\D\OSCAR\D\MPLABXPROJECTS\LAB_1\LAB_1\YESICA1\CONFIGURACION.INC 7 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\X456UA I5 7GN\DESKTOP\D\OSCAR\D\MPLABXPROJECTS\LAB_1\LAB_1\YESICA1\CONFIGURACION.INC 10 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\X456UA I5 7GN\DESKTOP\D\OSCAR\D\MPLABXPROJECTS\LAB_1\LAB_1\YESICA1\CONFIGURACION.INC 12 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\X456UA I5 7GN\DESKTOP\D\OSCAR\D\MPLABXPROJECTS\LAB_1\LAB_1\YESICA1\CONFIGURACION.INC 15 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\X456UA I5 7GN\DESKTOP\D\OSCAR\D\MPLABXPROJECTS\LAB_1\LAB_1\YESICA1\CONFIGURACION.INC 16 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\X456UA I5 7GN\DESKTOP\D\OSCAR\D\MPLABXPROJECTS\LAB_1\LAB_1\YESICA1\CONFIGURACION.INC 29 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[203] C:\USERS\X456UA I5 7GN\DESKTOP\D\OSCAR\D\MPLABXPROJECTS\LAB_1\LAB_1\YESICA1\LED.INC 53 : Found opcode in column 1. (retlw)
+Warning[203] C:\USERS\X456UA I5 7GN\DESKTOP\D\OSCAR\D\MPLABXPROJECTS\LAB_1\LAB_1\YESICA1\LED.INC 61 : Found opcode in column 1. (retlw)
+Warning[203] C:\USERS\X456UA I5 7GN\DESKTOP\D\OSCAR\D\MPLABXPROJECTS\LAB_1\LAB_1\YESICA1\LED.INC 120 : Found opcode in column 1. (retlw)
+Warning[203] C:\USERS\X456UA I5 7GN\DESKTOP\D\OSCAR\D\MPLABXPROJECTS\LAB_1\LAB_1\YESICA1\LED.INC 128 : Found opcode in column 1. (retlw)
